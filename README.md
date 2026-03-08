@@ -4,9 +4,7 @@ This project implements an IoT based system to monitor water quality parameters 
 
 ## Sensors Used
 - pH Sensor
-- Turbidity Sensor
 - DS18B20 Temperature Sensor
-- Dissolved Oxygen Sensor
 
 ## Hardware
 - ESP32 Microcontroller
@@ -31,5 +29,3 @@ Sensors → ESP32 → WiFi → ThingSpeak Cloud
 - Industrial water systems
 - Smart cities
 
-## Author
-Your Name
